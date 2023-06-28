@@ -1,0 +1,15 @@
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/victorsalles/Trybe/exercicios-C#/Fundamentos-e-recursos-C#/dia-01-Hello-World/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
