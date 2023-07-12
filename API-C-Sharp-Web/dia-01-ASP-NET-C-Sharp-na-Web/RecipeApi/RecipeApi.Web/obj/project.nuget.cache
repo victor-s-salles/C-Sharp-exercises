@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bOuvgT9/i+8cg/0hMJ4qvoV0YEm2UTYu+u0cT+07tFHf8F7dnltncqHTSjBUKSeLaoL4fQbN06xYpO/isQ0aw==",
+  "success": true,
+  "projectFilePath": "/Users/victorsalles/Trybe/exercicios-C#/API-C-Sharp-Web/dia-01-ASP-NET-C-Sharp-na-Web/RecipeApi/RecipeApi.Web/RecipeApi.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/victorsalles/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/victorsalles/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/victorsalles/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/victorsalles/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/victorsalles/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/victorsalles/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
