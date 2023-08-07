@@ -7,6 +7,7 @@ namespace Models
     {
         public StudentContext(DbContextOptions<StudentContext> options) : base(options) { }
         public StudentContext() { }
+        public DbSet<Student> Students { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
